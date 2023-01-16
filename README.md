@@ -1,6 +1,6 @@
 # FishnetPhysicsBug
 
-Example project showing a bug on FishNet 3.1.1 affecting client physics when using CSP. Almost everything is default except for TimeManager setting the Physics Mode to Time Manager. The player (red box) has the "Rigidbody Prediction" script that comes with the examples. Green ball is Physics2D, grey ball is Physics3D.
+Example project showing a bug on FishNet 3.1.3 affecting client physics when using CSP. Almost everything is default except for TimeManager setting the Physics Mode to Time Manager. The player (red box) has the "Rigidbody Prediction" script that comes with the examples. Green ball is Physics2D, grey ball is Physics3D.
 
 Note that when the player is moving, all physics is processed twice as fast as it should be.
 
